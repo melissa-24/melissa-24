@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Melissa Longenberger
+### Hi, I'm Melissa Longenberger
 #### Owner of BeeDev Services
 ![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev.png)
 
