@@ -1,6 +1,7 @@
 ### Hi, I'm Melissa Longenberger
 #### Owner of BeeDev Services
-![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev.png)
+![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev-background01.png)
+
 
 Let our Hive make a difference
 
@@ -14,7 +15,6 @@ Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=melissa-24)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=melissa-24&show_icons=true)  
 
