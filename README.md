@@ -9,6 +9,11 @@ Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON
 
 - 🌱 I’m currently learning python 
 - 💬 Ask me about My Services 
+- 🔭 I’m currently working on https://navyladyveteran.com 
+- 👯 I’m looking to collaborate on Projects for small businesses or startups 
+- 📫 How to reach me: melissa@melissa-longenberger.com 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I love to crochet and garden on top of creating websites 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/melissa-24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-longenberger/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/WolfsVeteran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://melissa-longenberger.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://beedev-itservices.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/A5PSJwp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40'>](https://beedev-itservices.slack.com)  
