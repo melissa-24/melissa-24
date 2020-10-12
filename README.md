@@ -1,6 +1,6 @@
 ### Hi, I'm Melissa Longenberger
 #### Owner of BeeDev Services
-![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev-background01.png)
+<a href="https://github.com/beedev-services">![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev-background01.png)</a>
 
 
 Let our Hive make a difference
