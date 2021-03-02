@@ -1,12 +1,12 @@
 ### Hi, I'm Melissa Longenberger, and I am a Full Stack Web Developer
 #### Owner of <a href="https://github.com/beedev-services">BeeDev Services</a>
 ![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev-background01.png)
-#### Employee of <a href="https://sirchit.org">Sirch</a>
+#### Employee of <a href="https://sirchit.org">Sirch</a> and an Instructor at <a href='https://codingdojo.com'>Coding Dojo</a>
 
 
 Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON
 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning java 
 - 🔭 I’m currently working on https://navyladyveteran.com 
 - 👯 I’m looking to collaborate on Projects for small businesses or startups 
 - 📫 How to reach me: melissa@melissa-longenberger.com 
