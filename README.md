@@ -4,9 +4,8 @@
 #### Employee of <a href="https://sirchit.org">Sirch</a> and an Instructor at <a href='https://codingdojo.com'>Coding Dojo</a>
 
 
-Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON
+Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON / DJANGO / JQUERY
 
-- 🌱 I’m currently learning java 
 - 🔭 I’m currently working on https://navyladyveteran.com 
 - 👯 I’m looking to collaborate on Projects for small businesses or startups 
 - 📫 How to reach me: melissa@melissa-longenberger.com 
@@ -15,6 +14,7 @@ Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LES
 
 Organizations that I contribute too:
 
+- Coding Dojo ACC: https://github.com/Coding-Dojo-ACC ➡️ ![github_stars](https://img.shields.io/github/stars/Coding-Dojo-ACC?style=social)
 
 - WEB35-with-Node: https://github.com/web35-with-node :arrow_right: ![github stars](https://img.shields.io/github/stars/web35-with-node?style=social) 
 
