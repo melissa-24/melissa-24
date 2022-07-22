@@ -1,18 +1,22 @@
 ### Hi, I'm Melissa Longenberger, and I am a Full Stack Web Developer
 #### Owner of <a href="https://github.com/beedev-services">BeeDev Services</a>
 ![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev-background01.png)
-#### Employee of <a href="https://sirchit.org">Sirch</a> and an Instructor at <a href='https://codingdojo.com'>Coding Dojo</a>
+#### Instructor at <a href='https://codingdojo.com'>Coding Dojo</a>
 
 
-Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON / DJANGO / JQUERY
+Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON / DJANGO / JQUERY / Flask / Java
 
-- 🔭 I’m currently working on https://navyladyveteran.com 
+- 🔭 I’m currently working on https://dojo-ninja.com
 - 👯 I’m looking to collaborate on Projects for small businesses or startups 
 - 📫 How to reach me: melissa@melissa-longenberger.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love to crochet and garden on top of creating websites 
 
 Organizations that I contribute too:
+
+- Python-InstructorMelissa: https://github.com/Python-InstructorMelissa - ![github_stars](https://img.shields.io/github/stars/Python-InstructorMelissa?style=social)
+
+- WF-InstructorMelissa: https://github.com/WF-InstructorMelissa - ![github_stars](https://img.shields.io/github/stars/WF-InstructorMelissa?style=social)
 
 - Coding Dojo ACC: https://github.com/Coding-Dojo-ACC ➡️ ![github_stars](https://img.shields.io/github/stars/Coding-Dojo-ACC?style=social)
 
