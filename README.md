@@ -1,10 +1,10 @@
 ### Hi, I'm Melissa Longenberger, and I am a Full Stack Web Developer
 #### Owner of <a href="https://github.com/beedev-services">BeeDev Services</a>
-![Owner of BeeDev Services](https://images.craftsnherbs.com/beedev-background01.png)
+![Owner of BeeDev Services](https://images.craftsnherbs.com/logos/beedevNew.png)
 #### Instructor at <a href='https://codingdojo.com'>Coding Dojo</a>
 
 
-Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON / DJANGO / JQUERY / Flask / Java
+Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON / DJANGO / JQUERY / Flask / Java / C#
 
 - 🔭 I’m currently working on https://dojo-ninja.com
 - 👯 I’m looking to collaborate on Projects for small businesses or startups 
@@ -14,21 +14,13 @@ Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LES
 
 Organizations that I contribute too:
 
-- Python-InstructorMelissa: https://github.com/Python-InstructorMelissa - ![github_stars](https://img.shields.io/github/stars/Python-InstructorMelissa?style=social)
+- Open Columbia County: https://github.com/Open-Columbia-County - ![github_stars] :arrow_right:(https://img.shields.io/github/stars/Open-Columbia-County?style=social)
 
-- WF-InstructorMelissa: https://github.com/WF-InstructorMelissa - ![github_stars](https://img.shields.io/github/stars/WF-InstructorMelissa?style=social)
+- Python-InstructorMelissa: https://github.com/Python-InstructorMelissa - ![github_stars] :arrow_right:(https://img.shields.io/github/stars/Python-InstructorMelissa?style=social)
 
-- Coding Dojo ACC: https://github.com/Coding-Dojo-ACC ➡️ ![github_stars](https://img.shields.io/github/stars/Coding-Dojo-ACC?style=social)
-
-- WEB35-with-Node: https://github.com/web35-with-node :arrow_right: ![github stars](https://img.shields.io/github/stars/web35-with-node?style=social) 
-
-- Py-Lambdas: https://github.com/Py-Lambdas :arrow_right: ![github stars](https://img.shields.io/github/stars/Py-Lambdas?style=social) 
+- WF-InstructorMelissa: https://github.com/WF-InstructorMelissa - ![github_stars] :arrow_right:(https://img.shields.io/github/stars/WF-InstructorMelissa?style=social)
 
 - BeeDev Services: https://github.com/beedev-services :arrow_right: ![github stars](https://img.shields.io/github/stars/beedev-services?style=social)
-
-- BeeDev Classroom: https://github.com/BeeDev-Classroom :soon: ![github stars](https://img.shields.io/github/stars/BeeDev-Classroom?style=social)
-
-- BeeDev Themes: https://github.com/BeeDev-Themes :soon: ![github stars](https://img.shields.io/github/stars/BeeDev-Themes?style=social)
 
 ![GitHub metrics](https://metrics.lecoq.io/melissa-24) 
 
