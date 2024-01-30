@@ -1,10 +1,23 @@
-### Hi, I'm Melissa Longenberger, and I am a Full Stack Web Developer
-#### Owner of <a href="https://github.com/beedev-services">BeeDev Services</a>
-![Owner of BeeDev Services](https://images.craftsnherbs.com/logos/beedevNew.png)
-#### Instructor at <a href='https://codingdojo.com'>Coding Dojo</a>
+### Hi, I'm Melissa Longenberger
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=500&color=B6A04F&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Full+Stack+Web+Developer+and+Educator;Small+Business+Owner)](https://git.io/typing-svg)
 
+#### Owner of <a href="https://beedev-services.com">BeeDev Services</a> and <a href="https://techbyte-learning.com">TechByte Learning</a>
+<img src="https://images.craftsnherbs.com/logos/beedevNew.png" alt="Owner of BeeDev Services" width="450"> <img src="https://images.craftsnherbs.com/logos/techbytelearning.png" alt="Owner of TechByte Learning" width="450">
 
-Let our Hive make a difference || Skills: NODEJS / REACT / JS / HTML / CSS / LESS / PYTHON / DJANGO / JQUERY / Flask / Java / C#
+### <code style='color="#B6A04FFF"> _**Technical Skills**_: </font>
+#### _**Markup and Styling Languages:**_ HTML | CSS | LESS | Pug
+#### JavaScript Libraries and Frameworks: jQuery | React | Vite | Next.js
+#### Back-end Frameworks: Django | Flask | Spring | Node.js | Express
+#### Database Technologies: MySQL | PostgreSQL | MongoDB
+#### Version Control: Git
+#### Testing: Cypress
+#### Programming Languages: JavaScript | Java | Python | C#
+#### Package Managers: NPM | Pip
+#### Development Tools: VS Code
+#### Command Line: Terminal Commands
+#### Server Technologies: .NET
+#### Web Hosting and Infrastructure: Hosting | DNS | SSL | AWS
+#### Miscellaneous: Srum Master | IoT | Jinja
 
 - 🔭 I’m currently working on https://dojo-ninja.com
 - 👯 I’m looking to collaborate on Projects for small businesses or startups 
