@@ -4,6 +4,8 @@
 #### Owner of <a href="https://beedev-services.com">BeeDev Services</a> and <a href="https://techbyte-learning.com">TechByte Learning</a>
 <img src="https://images.craftsnherbs.com/logos/beedevNew.png" alt="Owner of BeeDev Services" width="450"> <img src="https://images.craftsnherbs.com/logos/techbytelearning.png" alt="Owner of TechByte Learning" width="450">
 
+### <code> _**Technical Skills and Knowledge**_: </code>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
