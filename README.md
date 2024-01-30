@@ -4,32 +4,6 @@
 #### Owner of <a href="https://beedev-services.com">BeeDev Services</a> and <a href="https://techbyte-learning.com">TechByte Learning</a>
 <img src="https://images.craftsnherbs.com/logos/beedevNew.png" alt="Owner of BeeDev Services" width="450"> <img src="https://images.craftsnherbs.com/logos/techbytelearning.png" alt="Owner of TechByte Learning" width="450">
 
-### <code> _**Technical Skills**_: </code>
-
-| _**Markup and Styling Languages:**_ | _**JavaScript Libraries and Frameworks:**_ |
-|-------------------------------------|--------------------------------------------|
-|        HTML, CSS, LESS, Pug         |       jQuery, React, Vite, Next.js         |
-
-|       _**Back-end Frameworks:**_        |         _**Database Technologies:**_       |
-|-----------------------------------------|--------------------------------------------|
-| Django, Flask, Spring, Node.js, Express |      MySQL, PostgreSQL, MongoDB            |
-
-| _**Programming Languages:**_  | _**Package Managers:**_  |
-|-------------------------------|--------------------------|
-| JavaScript, Java, Python, C#  |                 NPM, Pip | 
-
-| _**Development Tools:**_  |  _**Command Line:**_  |
-|---------------------------|-----------------------|
-| VS Code                   | Terminal Commands     |
-
-| _**Server Technologies:**_  |  _**Web Hosting and Infrastructure:**_ |
-|-----------------------------|----------------------------------------|
-| .NET                        | Hosting, DNS, SSL, AWS                 |
-
-| _**Version Control:**_ | _**Testing:**_ | _**Miscellaneous:**_     |
-|------------------------|----------------|--------------------------|
-| Git                    | Cypress        | Scrum Master, IoT, Jinja |
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
