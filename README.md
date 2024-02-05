@@ -1,5 +1,6 @@
 ### Hi, I'm Melissa Longenberger
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=500&color=B6A04F&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Full+Stack+Web+Developer+and+Educator;Small+Business+Owner)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B6A04F&random=false&width=435&lines=Full+Stack+Developer+and+Educator;Small+business+Owner)](https://git.io/typing-svg)
 
 #### Owner of <a href="https://beedev-services.com">BeeDev Services</a> and <a href="https://techbyte-learning.com">TechByte Learning</a>
 <img src="https://images.craftsnherbs.com/logos/beedevNew.png" alt="Owner of BeeDev Services" width="450"> <img src="https://images.craftsnherbs.com/logos/techbytelearning.png" alt="Owner of TechByte Learning" width="450">
