@@ -7,6 +7,8 @@
 
 ### <code> _**Technical Skills and Knowledge**_: </code>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=melissa-24)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
