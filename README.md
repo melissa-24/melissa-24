@@ -5,7 +5,7 @@
 #### Owner of <a href="https://beedev-services.com">BeeDev Services</a> 
 <img src="https://images.craftsnherbs.com/logos/beedevNew.png" alt="Owner of BeeDev Services" width="450">
 
-#### Other Github id's:
+#### <code> _**Other Github Accounts / Personas**_: </code>
 - <a href="https://github.com/dojo-24">dojo24</a> - My time as a Coding Dojo Instructor
 - <a href="https??github.com/beedevservices">beedevservices</a> - My BeeDev Services Account
 
@@ -69,23 +69,27 @@
 
 
 - ✨ Creating bugs since ... 2009
-- 🔭 I’m currently working on https://beemindful-buzz.com
-- 👯 I’m looking to collaborate on Projects for small businesses or startups 
-- 📫 How to reach me: melissa@melissa-longenberger.com 
+- 🔭 I’m currently working on [100 Projects in xxx Days](https://100project100days.vercel.app/)
+- 👯 I’m looking to collaborate on Projects for small businesses or startups
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I love to crochet and garden on top of creating websites 
+- ⚡ Fun fact: I love to crochet and garden on top of creating websites
+
+
+#### <code> _**📫 How to reach me:**_ </code>
+Emails
+-   ![Static Badge](https://img.shields.io/badge/gmail-melissalongenberger24%40gmail.com-blue)
+-   ![Static Badge](https://img.shields.io/badge/business-melissa%40beedev--services.com-bue)
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=melissa-24)](https://github.com/ryo-ma/github-profile-trophy)
 
-- BeeDev Services: https://github.com/beedev-services :arrow_right: ![github stars](https://img.shields.io/github/stars/beedev-services?style=social)
+[GitHub metrics](https://metrics.lecoq.io/insights/melissa-24)
 
-![GitHub metrics](https://metrics.lecoq.io/melissa-24) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/melissa-24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melissa-longenberger/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/WolfsVeteran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://melissa-longenberger.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://beedev-itservices.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/A5PSJwp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40'>](https://beedev-itservices.slack.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/melissa24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/melissa-24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13722246)  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissa-24)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=melissa-24)  
+[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=melissa-24)  
 
 ###
 
