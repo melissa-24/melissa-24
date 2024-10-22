@@ -103,3 +103,4 @@ Emails
 <div align="center">
   <img src="https://profile-counter.glitch.me/melissa-24/count.svg?"  />
 </div>
+[![An image of @melissa24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissa24)](https://holopin.io/@melissa24)
