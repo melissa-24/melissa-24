@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B6A04F&random=false&width=535&lines=Full+Stack+Developer+and+Educator;Small+business+Owner)](https://git.io/typing-svg)
 
 #### Owner & CEO of:
-<a href="https://beedev-services.com"><img src="https://images.thehive-services.com/beeDevServices/Logo_2.png" /></a>
-<a href="https://techbyte-learning.com"><img src="https://images.thehive-services.com/techByteLearning/title04-01.png" /></a>
+<a href="https://beedev-services.com"><img src="https://images.thehive-services.com/beeDevServices/Logo_2.png" width="300" /></a>
+<a href="https://techbyte-learning.com"><img src="https://images.thehive-services.com/techByteLearning/title04-01.png" width="300" /></a>
 
 #### <code> _**Other Github Accounts / Personas**_: </code>
 - <a href="https://github.com/dojo-24">dojo24</a> - My time as a Coding Dojo Instructor
