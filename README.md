@@ -85,7 +85,7 @@ Emails
 [![trophy](https://github-profile-trophy.vercel.app/?username=melissa-24)](https://github.com/ryo-ma/github-profile-trophy)
 
 [GitHub metrics](https://metrics.lecoq.io/insights/melissa-24)
-
+[![An image of @melissa24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissa24)](https://holopin.io/@melissa24)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissa-24)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -103,4 +103,3 @@ Emails
 <div align="center">
   <img src="https://profile-counter.glitch.me/melissa-24/count.svg?"  />
 </div>
-[![An image of @melissa24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/melissa24)](https://holopin.io/@melissa24)
