@@ -1,4 +1,4 @@
-### Hi, I'm Melissa Longenberger
+### Hi, I'm Melissa Payne
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B6A04F&random=false&width=535&lines=Full+Stack+Developer+and+Educator;Small+business+Owner)](https://git.io/typing-svg)
 
