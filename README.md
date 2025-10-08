@@ -8,7 +8,7 @@
 
 #### <code> _**Other Github Accounts / Personas**_: </code>
 - <a href="https://github.com/dojo-24">dojo24</a> - My time as a Coding Dojo Instructor
-- <a href="https??github.com/beedevservices">beedevservices</a> - My BeeDev Services Account
+- <a href="https://github.com/beedevservices">beedevservices</a> - My BeeDev Services Account
 
 - <img src="https://www.codewars.com/users/melissa-24/badges/small" />
 
