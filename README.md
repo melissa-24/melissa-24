@@ -29,7 +29,7 @@
 </p>
 
 - IDE
-  <p align="left">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=p5js,codepen,replit" />
   </a>
