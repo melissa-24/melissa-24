@@ -17,14 +17,21 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,jquery,react,vite,nextjs,redux,pug,md" />
+    <img src="https://skillicons.dev/icons?i=html,js,jquery,react,vite,nextjs,redux,pug,md,redux,regex" />
   </a>
 </p>
 
 - Styling
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,less,tailwind,materialui,styledcomponents,sass" />
+    <img src="https://skillicons.dev/icons?i=css,less,tailwind,materialui,styledcomponents,sass,bootstrap,prisma" />
+  </a>
+</p>
+
+- IDE
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=p5js,codepen,replit" />
   </a>
 </p>
 
@@ -38,7 +45,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase" />
   </a>
 </p>
 
@@ -52,7 +59,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,codepen,replit,discord,discordjs,cypress,devto,notion,npm,obsidian" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,discord,discordjs,cypress,devto,notion,npm,obsidian,nginx,vim" />
   </a>
 </p>
 
