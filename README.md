@@ -80,7 +80,7 @@
 
 #### <code> _**📫 How to reach me:**_ </code>
 Emails
--   ![Static Badge](https://img.shields.io/badge/gmail-melissalongenberger24%40gmail.com-blue)
+-   ![Static Badge](https://img.shields.io/badge/gmail-melissa.payne2478%40gmail.com-blue)
 -   ![Static Badge](https://img.shields.io/badge/business-beedev.services%40gmail.com-bue)
 -   ![Static Badge](https://img.shields.io/badge/business-techbyte.learning%40gmail.com-bue)
 
